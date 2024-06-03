@@ -1,6 +1,6 @@
 # Agricultural-Autonomous-Land-Vehicle-Teknofest
 
-This project was developed by the AGRO-DEV TEAM during our participation in the Teknofest Agricultural Unmanned Ground Vehicles Competition, where we reached the semi-finals. The project involves creating an image processing-based wild herb detection and destruction tool using autonomous ground vehicle technology.
+This project was developed by the AGRO-DEV TEAM during our participation in the Teknofest Agricultural Unmanned Ground Vehicles Competition, where we reached the semi-finals. This project could not be completed because it could not be passed to the final. The project involves creating an image processing-based wild herb detection and destruction tool using autonomous ground vehicle technology.
 
 # Overview
 The Agricultural Autonomous Ground Vehicle project aims to develop an autonomous robot capable of detecting and removing wild herbs from agricultural fields. Using advanced image processing techniques and artificial intelligence, the vehicle can navigate fields, identify unwanted plants, and take action to remove them efficiently.
@@ -32,13 +32,6 @@ Autonomous Driving Algorithms: Implemented using the MAVLINK protocol to communi
 Mechanical Design: Robust chassis and wheel system designed to navigate through rugged agricultural terrains.
 
 Power Management: Powered by a 22.2V 5200mAh Li-Po battery ensuring long-lasting operations.
-
-# Running the Application
-Start the Application:
-
-Deploy the application on the Jetson Nano. Ensure all components are connected and powered.
-
-Launch the control software to start the autonomous operations.
 
 # Simulation and Testing
 Simulation Environment: Gazebo and Rviz are used for simulating the vehicle's operations in a controlled environment.
